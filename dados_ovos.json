@@ -1,0 +1,68 @@
+[
+  {
+    "nome": "Ovo de colher - Brigadeiro Gourmet",
+    "descricao": "Ovo de chocolate",
+    "recheios": ["Brigadeiro de Chocolate."],
+    "imagem": "brigadeiro_gourmet.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro de Ninho + Geléia",
+    "descricao": "Ovo branco",
+    "recheios": ["Brigadeiro de Ninho e Geléia."],
+    "imagem": "ninho_geleia.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro de Ninho + Geléia de Morango _Nutella",
+    "descricao": "Ovo branco",
+    "recheios": ["Brigadeiro de Ninho, Geléia de Morango e Nutella."],
+    "imagem": "ninho_geleia.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro de Ninho + Nutella",
+    "descricao": "Ovo branco",
+    "recheios": ["Brigadeiro de Ninho e Nutella."],
+    "imagem": "ninho_nutella.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Ferrero Rocher",
+    "descricao": "Ovo Chocolate",
+    "recheios": ["Ferrero Rocher."],
+    "imagem": "ferrero_rocher.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro Misto + Nutella",
+    "descricao": "Ovo Chocolate Misto",
+    "recheios": ["Chocolate ao Leite e Branco."],
+    "imagem": "chocolate_misto.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro Maracujá",
+    "descricao": "Ovo Chocolate com Maracujá",
+    "recheios": ["Chocolate ao Leite e Maracujá."],
+    "imagem": "chocolate_maracuja.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Kitkat",
+    "descricao": "Ovo Chocolate kitkat",
+    "recheios": ["Chocolate ao Leite e Kitkat."],
+    "imagem": "chocolate_kitkat.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Surpresa de Uva",
+    "descricao": "Ovo Chocolate com recheio de Uvas",
+    "recheios": ["Chocolate ao Leite e recheio de Uvas."],
+    "imagem": "chocolate_uvas.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Torta de Limão",
+    "descricao": "Ovo Chocolate com Torta de Limão",
+    "recheios": ["Chocolate ao Leite com Torta de Limão."],
+    "imagem": "chocolate_torta.jpeg"
+  },
+  {
+    "nome": "Ovo de colher - Oreo",
+    "descricao": "Ovo Chocolate com Oreo",
+    "recheios": ["Chocolate ao Leite com Oreo."],
+    "imagem": "chocolate_Oreo.jpeg"
+  }
+]
