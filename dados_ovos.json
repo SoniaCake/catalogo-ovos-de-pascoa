@@ -1,0 +1,121 @@
+[
+  {
+    "nome": "Ovo de colher - Brigadeiro Gourmet",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro de Chocolate e Nutella."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "brigadeiro_gourmet.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro Branco e Morango",
+    "descricao": "Chocolate Branco",
+    "recheios": ["Brigadeiro Branco e Morango."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "brigadeiro_branco_morango.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Ninho com Morango",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Ninho com Morango."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "brigadeiro_leite_morango.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro de Ninho e Nutella",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro de Ninho e Nutella."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "brigadeiro_nutella.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Ferrero Rocher",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Ferrero Rocher, Brigadeiro e Castanha."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "ferrero_rocher.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro Misto",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "chocolate_misto.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Brigadeiro de Maracujá",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro de Maracujá e Brigadeiro de Chocolate Branco e Preto."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "chocolate_maracuja.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Kitkat",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro ao Leite e Kitkat."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "chocolate_kitkat.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Surpresa de Uva",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro de Chocolate Branco e Preto e Uvas."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "surpresa_uva.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Ninho de Uva",
+    "descricao": "Chocolate Branco",
+    "recheios": ["Brigadeiro Branco com Uvas."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "ninho_uvas.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Chocolate Torta de Limão",
+    "descricao": "Chocolate Branco ou ao Leite",
+    "recheios": ["Chocolate ao Leite com Mousse de Limão."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "ninho_torta.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Branco Oreo",
+    "descricao": "Chocolate Branco",
+    "recheios": ["Recheio de Oreo."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "branco_oreo.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Chocolate Oreo",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Recheio de Oreo."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "chocolate_oreo.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Ninho Pistache",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Chocolate ao Leite com Brigadeiro de Pistache."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "ninho_pistache.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Chocolate Dois Amores",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro de Ninho e Brigadeiro."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "dois_amores.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Chocolate Brownie Caramelo Salgado",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Chocolate ao Leite com Brownie e Caramelo Salgado."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "brownie_caramelo.jpg"
+  },
+  {
+    "nome": "Ovo de colher - Chocolate Brigadeiro Meio Amargo",
+    "descricao": "Chocolate ao Leite ou Meio Amargo",
+    "recheios": ["Brigadeiro Amargo e ao Leite."],
+    "Peso": "150g - 250g - 350g",
+    "imagem": "brigadeiro_meio_amargo.jpg"
+  }
+]
